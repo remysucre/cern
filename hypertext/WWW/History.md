@@ -1,5 +1,3 @@
-# https://info.cern.ch/hypertext/WWW/History.html
-
 WWW Project History
 
 # History to date

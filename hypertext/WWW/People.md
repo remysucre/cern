@@ -1,5 +1,3 @@
-# https://info.cern.ch/hypertext/WWW/People.html#Pollermann
-
 People involved in the WorldWideWeb project
 
 # WWW people

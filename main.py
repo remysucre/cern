@@ -109,7 +109,7 @@ def download_and_convert(url, output_dir):
         output_file = output_dir / filepath
         output_file.parent.mkdir(parents=True, exist_ok=True)
 
-        markdown_content = f"# {url}\n\n{result.text_content}"
+        markdown_content = result.text_content
         output_file.write_text(markdown_content)
         print(f"Converted: {url} -> {filepath}")
 

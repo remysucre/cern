@@ -1,5 +1,3 @@
-# https://info.cern.ch/hypertext/WWW/TheProject.html
-
 # World Wide Web
 
 The WorldWideWeb (W3) is a wide-area[hypermedia](https://cern.la/hypertext/WWW/WhatIs.md) information retrieval

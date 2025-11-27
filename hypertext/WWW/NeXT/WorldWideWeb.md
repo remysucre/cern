@@ -1,5 +1,3 @@
-# https://info.cern.ch/hypertext/WWW/NeXT/WorldWideWeb.html
-
 The WorldWideWeb application on the NeXT
 
 # WWW User guide

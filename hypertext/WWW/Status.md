@@ -1,5 +1,3 @@
-# https://info.cern.ch/hypertext/WWW/Status.html#60
-
 # W3 Software
 
 This is a list of products related

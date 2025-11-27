@@ -1,5 +1,3 @@
-# https://info.cern.ch/hypertext/WWW/Summary.html
-
 Summary -- /WWW
 
 # WorldWideWeb - Summary
